@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\polimorifiso\obj\Debug\net5.0\polimorifiso.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\polimorifiso\obj\Debug\net5.0\polimorifiso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\polimorifiso\obj\Debug\net5.0\polimorifiso.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\polimorifiso\obj\Debug\net5.0\polimorifiso.AssemblyInfo.cs
+C:\Users\dev\Desktop\polimorifiso\obj\Debug\net5.0\polimorifiso.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\polimorifiso\bin\Debug\net5.0\polimorifiso.exe
+C:\Users\dev\Desktop\polimorifiso\bin\Debug\net5.0\polimorifiso.deps.json
+C:\Users\dev\Desktop\polimorifiso\bin\Debug\net5.0\polimorifiso.runtimeconfig.json
+C:\Users\dev\Desktop\polimorifiso\bin\Debug\net5.0\polimorifiso.runtimeconfig.dev.json
+C:\Users\dev\Desktop\polimorifiso\bin\Debug\net5.0\polimorifiso.dll
+C:\Users\dev\Desktop\polimorifiso\bin\Debug\net5.0\ref\polimorifiso.dll
+C:\Users\dev\Desktop\polimorifiso\bin\Debug\net5.0\polimorifiso.pdb
+C:\Users\dev\Desktop\polimorifiso\obj\Debug\net5.0\polimorifiso.dll
+C:\Users\dev\Desktop\polimorifiso\obj\Debug\net5.0\ref\polimorifiso.dll
+C:\Users\dev\Desktop\polimorifiso\obj\Debug\net5.0\polimorifiso.pdb
+C:\Users\dev\Desktop\polimorifiso\obj\Debug\net5.0\polimorifiso.genruntimeconfig.cache
